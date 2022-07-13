@@ -1,0 +1,22 @@
+{
+  "eslint.autoFixOnSave": true,
+  "javascript.validate.enable": false,
+  "eslint.quiet": true,
+  "tsserver.reportStyleChecksAsWarnings": false,
+  "rest-client.showHeaders": false,
+  "tsserver.tsconfigPath": "tsconfig.json",
+  "coc.preferences.formatOnSaveFiletypes": [
+    "sh",
+    "lua",
+    "vim",
+    "json",
+    "yml",
+    "javascript",
+    "typescript",
+    "javascriptreact",
+    "typescriptreact",
+    "vue",
+    "html",
+    "css"
+  ]
+}
