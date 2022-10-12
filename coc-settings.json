@@ -1,6 +1,6 @@
 {
   "eslint.autoFixOnSave": true,
-  "javascript.validate.enable": false,
+  "javascript.validate.enable": true,
   "eslint.quiet": true,
   "tsserver.reportStyleChecksAsWarnings": false,
   "rest-client.showHeaders": false,
